@@ -14,4 +14,4 @@ Follows list of themes I cover:
 
 - [Material Dark](https://github.com/naderi/material-theme-for-npp): I loved ths theme a lot, here you can find some languages extensions.
 
-- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/Cydonia): Customized theme based on vanilla Blackboard npp theme. Comes with several languages extensions.
+- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/tree/master/Cydonia): Customized theme based on vanilla Blackboard npp theme. Comes with several languages extensions.
