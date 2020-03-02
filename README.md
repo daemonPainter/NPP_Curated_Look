@@ -1,12 +1,17 @@
-# gawk_material_dark
-Notepad++ styler for [gawk](https://www.gnu.org/software/gawk/manual/gawk.html) to go along the [Material Dark](https://github.com/naderi/material-theme-for-npp) custom theme.
+# Notepad++ custom colors
+
+Custom color schemes, both themes and language definitions, for Notepad++.
+
+I upload here themes and color schemes I love to use with Notepad++, including some definitions for not-so-popular languages I use often (e.g. awk/gawk, dxl).
 
 ## Installation
 
-From menu -> Language -> Define your language... hit Import... and navigate to this xml file (I suggest you store it in the Notepad++ install folder - even more for a portable version). Import it and restart Notepad++. From the same menu -> Language select gawk from the very bottom of the dropdown list.
+I will make a short guide here, I promise. For now, please google-fu your way and bear patience.
 
-Enjoy!
+## Currently Supported Themes
 
-## Notes
+Follows list of themes I cover:
 
-This styler was made to go along the Material Dark theme (link at beginning). It allows you to add shortcuts comments and highlight restricted keywords.
+- [Material Dark](https://github.com/naderi/material-theme-for-npp): I loved ths theme a lot, here you can find some languages extensions.
+
+- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/Cydonia): Customized theme based on vanilla Blackboard npp theme. Comes with several languages extensions.
