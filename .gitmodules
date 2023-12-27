@@ -1,0 +1,3 @@
+[submodule "Material-Dark/themes"]
+	path = Material-Dark/themes
+	url = https://github.com/naderi/material-theme-for-npp

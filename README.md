@@ -13,6 +13,19 @@ You may install all themes without conflict.
 
 You may want to choose to install only the UDLs of your go-to theme. All UDLs in this repository indicate which theme they are compatible with.
 
+### Submodules
+
+This repository includes original third-party themes as git submodules. Downloading the repository won't download the original themes.
+
+Cloning the repository will not clone the original themes. You'll have to run the following commands first:
+
+```
+git submodule init
+git submodule update
+```
+
+or run `git clone` with the `--recurse-submodules` option.
+
 ### Installing themes
 
 If in trouble, consult the [official guide](https://github.com/notepad-plus-plus/nppThemes) on how to install Notepad++ themes.
