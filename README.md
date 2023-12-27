@@ -52,9 +52,11 @@ If in trouble, consult the [official guide](https://github.com/notepad-plus-plus
 
 ## Supported Themes
 
-- [Material Dark](https://github.com/naderi/material-theme-for-npp): I loved ths theme a lot, here you can find some languages extensions.
+- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/tree/master/Cydonia): Handcrafted theme based on vanilla npp Blackboard theme made by me.
 
-- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/tree/master/Cydonia): Customized theme based on vanilla Blackboard npp theme. Comes with several languages extensions.
+- [Material Dark](https://github.com/naderi/material-theme-for-npp): I loved ths theme a lot, many kudos to *naderi* for this one.
+
+- [Material Palenight](https://github.com/samsebastien/material-palenight-npp): Lovely porting of one of the most popular dark coding themes, many kudos to *samsebastien* for this.
 
 ## Supported Languages
 

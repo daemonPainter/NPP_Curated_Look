@@ -1,3 +1,6 @@
 [submodule "Material-Dark/themes"]
 	path = Material-Dark/themes
 	url = https://github.com/naderi/material-theme-for-npp
+[submodule "Material-Palenight/themes"]
+	path = Material-Palenight/themes
+	url = https://github.com/samsebastien/material-palenight-npp
