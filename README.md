@@ -63,3 +63,7 @@ If in trouble, consult the [official guide](https://github.com/notepad-plus-plus
 - GAWK/AWK
 - DXL
 - VSQ
+
+## More suggestions
+
+I like to play with fonts as well. My recommendation for something popular would be [Fira Code](https://github.com/tonsky/FiraCode). My go-to workhorse font would be [Consolas](https://en.wikipedia.org/wiki/Consolas).
