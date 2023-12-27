@@ -73,4 +73,5 @@ My go-to workhorse font would be [Consolas](https://en.wikipedia.org/wiki/Consol
 
 It's much easier to talk palettes than anything else :D
 
+![Color Palette for Cydonia.](./.img/cydonia.png)
 ![Color Palette for Material Palenight.](./.img/material_palenight.png)
