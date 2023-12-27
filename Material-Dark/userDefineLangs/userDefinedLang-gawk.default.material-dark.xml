@@ -41,13 +41,13 @@ Requirements:
  //-->
 
 <NotepadPlus>
-    <UserLang name="gawk (Material Dark)" ext="awk" udlVersion="2.1">
+    <UserLang name="awk/gawk (Material Dark)" ext="awk" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="yes" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="yes" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="yes" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
-            <Keywords name="Comments">00# 01# 02 03 04</Keywords>
+            <Keywords name="Comments">00# 01 02 03 04</Keywords>
             <Keywords name="Numbers, prefix1"></Keywords>
             <Keywords name="Numbers, prefix2"></Keywords>
             <Keywords name="Numbers, extras1"></Keywords>
@@ -69,8 +69,8 @@ Requirements:
             <Keywords name="Keywords1">$</Keywords>
             <Keywords name="Keywords2">BEGIN END BEGINFILE ENDFILE</Keywords>
             <Keywords name="Keywords3">atan2 close cos exp fflush getline gsub index int length log match print printf rand sin split sprintf sqrt srand sub substr system tolower toupper</Keywords>
-            <Keywords name="Keywords4">ARGC ARGV FILENAME FNR FS NF NR OFMT OFS ORS RLENGTH RS RSTART SUBSEP</Keywords>
-            <Keywords name="Keywords5">break continue delete do else exit for function if in next return while</Keywords>
+            <Keywords name="Keywords4">ARGC ARGV FILENAME FNR FS NF NR OFMT OFS ORS RLENGTH RS RSTART SUBSEP PROCINFO</Keywords>
+            <Keywords name="Keywords5">break continue delete do else exit for function if in next return while switch case default</Keywords>
             <Keywords name="Keywords6">@</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
@@ -96,7 +96,7 @@ Requirements:
             <WordsStyle name="DELIMITERS1" fgColor="C3E88D" bgColor="212121" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS2" fgColor="CDA869" bgColor="212121" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS3" fgColor="B2CCD6" bgColor="212121" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="1024" />
             <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
