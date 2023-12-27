@@ -18,7 +18,6 @@ You may want to choose to install only the UDLs of your go-to theme. All UDLs in
 This repository includes original third-party themes as git submodules. Downloading the repository won't download the original themes.
 
 Cloning the repository will not clone the original themes. You'll have to run the following commands first:
-
 ```
 git submodule init
 git submodule update
@@ -64,6 +63,14 @@ If in trouble, consult the [official guide](https://github.com/notepad-plus-plus
 - DXL
 - VSQ
 
-## More suggestions
+## Additional Resources
 
-I like to play with fonts as well. My recommendation for something popular would be [Fira Code](https://github.com/tonsky/FiraCode). My go-to workhorse font would be [Consolas](https://en.wikipedia.org/wiki/Consolas).
+I like to play with fonts as well. My recommendation for something popular would be [Fira Code](https://github.com/tonsky/FiraCode), although it needs some steps to make it work fine on Notepad++.
+
+My go-to workhorse font would be [Consolas](https://en.wikipedia.org/wiki/Consolas).
+
+### Color Palettes
+
+It's much easier to talk palettes than anything else :D
+
+![Color Palette for Material Palenight.](./.img/material_palenight.png)
