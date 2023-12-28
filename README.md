@@ -4,6 +4,8 @@ Custom color schemes, both themes and language definitions, for Notepad++.
 
 I upload here themes and color schemes I love to use with Notepad++, including some definitions for not-so-popular languages I use often (full list below)
 
+Everything painfully handcrafted by a human :gift_heart:.
+
 ## Installation
 
 User-defined languages in Notepad++ are mostly (painfully) handcrafted. UDL styler files will override your theme colors, in many instances (see the [official reference](https://npp-user-manual.org/docs/user-defined-language-system/#udl-and-themes) for more details).
@@ -51,16 +53,19 @@ If in trouble, consult the [official guide](https://github.com/notepad-plus-plus
 
 ## Supported Themes
 
-- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/tree/master/Cydonia): Handcrafted theme based on vanilla npp Blackboard theme made by me.
+- Default: this folder contains vanilla (light) UDL definitions for all supported languages from this package;
 
-- [Material Dark](https://github.com/naderi/material-theme-for-npp): I loved ths theme a lot, many kudos to *naderi* for this one.
+- [Cydonia](https://github.com/daemonPainter/npp_custom_colors/tree/master/Cydonia): Handcrafted theme based on vanilla npp Blackboard theme made by me;
+
+- [Material Dark](https://github.com/naderi/material-theme-for-npp): I loved ths theme a lot, many kudos to *naderi* for this one;
 
 - [Material Palenight](https://github.com/samsebastien/material-palenight-npp): Lovely porting of one of the most popular dark coding themes, many kudos to *samsebastien* for this.
 
 ## Supported Languages
 
-- GAWK/AWK
 - DXL
+- GAWK/AWK
+- Markdown
 - VSQ
 
 ## Additional Resources
