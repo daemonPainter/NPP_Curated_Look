@@ -54,6 +54,7 @@ If in trouble, consult the [official guide](https://github.com/notepad-plus-plus
 ## Supported Themes
 
 - Default: this folder contains vanilla (light) UDL definitions for all supported languages from this package;
+    - Dark Mode Default is supported as well;
 
 - [Cydonia](https://github.com/daemonPainter/npp_custom_colors/tree/master/Cydonia): Handcrafted theme based on vanilla npp Blackboard theme made by me;
 
